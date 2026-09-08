@@ -4,7 +4,7 @@
     <img src="https://raw.githubusercontent.com/Daudu-Joseph/Daudu-Joseph/output/banner-dark.svg?v=private-contribs" width="100%" alt="Hey there, I'm Higgins. IT Manager, Technology Lead, and Product Engineer." />
   </picture>
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=FFFFFF&background=0D1117&center=true&vCenter=true&width=880&height=56&lines=Building+Gitty+%E2%80%94+an+AI+coding+workspace;Sole+Builder+%40+Subtle;Code%2C+systems%2C+and+sound." width="100%" alt="Building Gitty — an AI coding workspace. Sole Builder at Subtle. Code, systems, and sound." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=FFFFFF&background=0D1117&center=true&vCenter=true&width=880&height=56&lines=Building+Gitty+%E2%80%94+an+AI+coding+workspace;IT+Manager+%40+Subtle;Solo+technical+builder." width="100%" alt="Building Gitty — an AI coding workspace. IT Manager at Subtle. Solo technical builder." />
   <br/>
   <a href="https://github.com/Daudu-Joseph?tab=followers"><img src="https://img.shields.io/github/followers/Daudu-Joseph?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=303036" alt="GitHub followers" /></a>
   <a href="https://github.com/Daudu-Joseph?tab=repositories"><img src="https://img.shields.io/github/stars/Daudu-Joseph?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=303036&affiliations=OWNER" alt="Stars on my GitHub repositories" /></a>
@@ -19,7 +19,7 @@
 
 ### About Me
 
-I'm **Joseph Daudu (Higgins)** — IT Manager & Technology Lead at **Subtle Innovative Services**, an educational and travel consultancy in Lagos, Nigeria. I'm the sole builder across every technical project under the Subtle umbrella and my independent portfolio.
+I'm **Joseph Daudu (Higgins)** — IT Manager & Technology Lead at **Subtle Innovative Services Limited**, an educational and travel consultancy in Lagos, Nigeria. I'm the solo technical builder across Subtle's digital systems and my independent portfolio.
 
 - 🛠️ Building **Gitty** — an AI coding agent/workspace platform (agent runtime, SSE streaming, memory graph, PR review engine)
 - 🧠 Built **SCC (Semantic Chunk Compression)** — a standalone code/document intelligence engine using Tree-sitter AST parsing, hybrid vector + graph retrieval
@@ -87,6 +87,7 @@ I'm **Joseph Daudu (Higgins)** — IT Manager & Technology Lead at **Subtle Inno
 
 <a href="https://daudu.framer.website/"><img src="https://img.shields.io/badge/Portfolio-FAFAFA?style=for-the-badge&logo=googlechrome&logoColor=18181b" alt="Visit my portfolio" /></a>
 <a href="https://github.com/Daudu-Joseph"><img src="https://img.shields.io/badge/GitHub-303036?style=for-the-badge&logo=github&logoColor=white" alt="Connect on GitHub" /></a>
+<a href="https://x.com/higgins_dev?s=11"><img src="https://img.shields.io/badge/X-18181b?style=for-the-badge&logo=x&logoColor=white" alt="Follow me on X" /></a>
 
 <br/><br/>
 
