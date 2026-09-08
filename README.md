@@ -36,10 +36,8 @@ I'm **Joseph Daudu (Higgins)** — IT Manager & Technology Lead at **Subtle Inno
 
 ### GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Daudu-Joseph&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Daudu-Joseph&theme=dark&hide_border=true&background=0D1117&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" width="49%" />
-<br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Daudu-Joseph&theme=github-compact&hide_border=true&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=FFFFFF" width="98%" />
+[View my contributions and activity on GitHub](https://github.com/Daudu-Joseph#js-contribution-activity)
+
 </div>
 
 <!--START_SECTION:waka-->
@@ -76,6 +74,8 @@ jobs:
 <div align="center">
 
 ### Connect
+
+[Portfolio / Website](https://daudu.framer.website/)
 
 <br/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FFFFFF&height=120&section=footer" width="100%"/>
