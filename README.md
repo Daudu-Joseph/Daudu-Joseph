@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Daudu-Joseph/Daudu-Joseph/output/banner-light.svg" />
-    <img src="https://raw.githubusercontent.com/Daudu-Joseph/Daudu-Joseph/output/banner-dark.svg" width="100%" alt="Hey there, I'm Higgins. IT Manager, Technology Lead, and Product Engineer." />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Daudu-Joseph/Daudu-Joseph/output/banner-light.svg?v=private-contribs" />
+    <img src="https://raw.githubusercontent.com/Daudu-Joseph/Daudu-Joseph/output/banner-dark.svg?v=private-contribs" width="100%" alt="Hey there, I'm Higgins. IT Manager, Technology Lead, and Product Engineer." />
   </picture>
   <br/>
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=FFFFFF&background=0D1117&center=true&vCenter=true&width=880&height=56&lines=Building+Gitty+%E2%80%94+an+AI+coding+workspace;Sole+Builder+%40+Subtle;Code%2C+systems%2C+and+sound." width="100%" alt="Building Gitty — an AI coding workspace. Sole Builder at Subtle. Code, systems, and sound." />
@@ -55,7 +55,7 @@ I'm **Joseph Daudu (Higgins)** — IT Manager & Technology Lead at **Subtle Inno
 ### GitHub Stats
 
 <a href="https://github.com/Daudu-Joseph#js-contribution-activity">
-  <img src="https://raw.githubusercontent.com/Daudu-Joseph/Daudu-Joseph/output/profile-stats.svg" width="100%" alt="GitHub activity: contributions, current streak, longest streak, and active days over the last 12 months" />
+  <img src="https://raw.githubusercontent.com/Daudu-Joseph/Daudu-Joseph/output/profile-stats.svg?v=private-contribs" width="100%" alt="GitHub activity: contributions, current streak, longest streak, and active days over the last 12 months" />
 </a>
 
 <br/><br/>
@@ -63,7 +63,7 @@ I'm **Joseph Daudu (Higgins)** — IT Manager & Technology Lead at **Subtle Inno
 ### Contribution Graph
 
 <a href="https://github.com/Daudu-Joseph#js-contribution-activity">
-  <img src="https://raw.githubusercontent.com/Daudu-Joseph/Daudu-Joseph/output/contribution-graph.svg" width="100%" alt="Joseph's daily contribution graph for the last 30 days" />
+  <img src="https://raw.githubusercontent.com/Daudu-Joseph/Daudu-Joseph/output/contribution-graph.svg?v=private-contribs" width="100%" alt="Joseph's daily contribution graph for the last 30 days" />
 </a>
 
 <sub>Updated daily from activity visible on my GitHub profile.</sub>
