@@ -1,5 +1,9 @@
 name: generate snake animation
 
+concurrency:
+  group: profile-assets
+  cancel-in-progress: false
+
 on:
   schedule:
     - cron: "0 0 * * *" # runs daily at midnight UTC
@@ -16,13 +20,25 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: verify contribution calculations
+        run: node --test scripts/generate-profile.test.mjs
+
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk@v3
         with:
           github_user_name: Daudu-Joseph
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg?color_snake=%23ffffff&color_dots=%230d1117,%23444444,%23808080,%23b8b8b8,%23eeeeee
+            dist/github-snake-dark.svg?color_snake=%23ffffff&color_dots=%230d1117,%23444444,%23808080,%23b8b8b8,%23eeeeee
+
+      - name: generate stats, graph, banners, and style snake
+        run: node scripts/generate-profile.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: push snake output to output branch
         uses: crazy-max/ghaction-github-pages@v4
