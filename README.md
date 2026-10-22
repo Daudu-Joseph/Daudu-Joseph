@@ -18,14 +18,12 @@
 <td width="65%" valign="top">
 
 ### About Me
-
-I'm **Joseph Daudu (Higgins)** — IT Manager & Technology Lead at **Subtle Innovative Services Limited**, an educational and travel consultancy in Lagos, Nigeria. I'm the solo technical builder across Subtle's digital systems and my independent portfolio.
-
-- 🛠️ Building **Gitty** — an AI coding agent/workspace platform (agent runtime, SSE streaming, memory graph, PR review engine)
-- 🧠 Built **SCC (Semantic Chunk Compression)** — a standalone code/document intelligence engine using Tree-sitter AST parsing, hybrid vector + graph retrieval
-- 🏢 Running IT + engineering end-to-end at Subtle: CRM, websites, infrastructure — since Jan 2024
-- 🎧 Producing music under the alias **H!gg!ns**
-- 🌍 Based in Nigeria
+I'm Joseph Daudu (H!gg!ns) — a Computer Engineering graduate from the University of Benin, a developer, and an independent AI research enthusiast. I lead IT and engineering at Subtle Innovative Services Limited in Nigeria, and I build my own projects outside work.
+I'm especially interested in a simple question: what if AI could understand a codebase without having to read all of it?
+- Gitty — an AI-powered developer workspace I'm building to bring repository understanding, connected development tools, and coding agents into one place.
+- SCC (Semantic Code Compression) — my working code-retrieval engine. It represents repositories as meaningful code units and combines vector, symbol, path, and lexical search with optional graph expansion.
+- Current research — improving precise code retrieval, comparing small embedding models with existing baselines, and exploring how structured memory might improve AI systems over time.
+- Outside code — I produce music as H!gg!ns.
 
 </td>
 <td width="35%" align="center">
